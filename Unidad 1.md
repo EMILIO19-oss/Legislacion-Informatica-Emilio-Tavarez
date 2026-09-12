@@ -45,13 +45,11 @@ Es una autoridad independiente que supervisa que las instituciones y organismos 
 
 # Actividad 1.4
 
-suplantación de identidad
-Datos que se usan para entrenar el modelo
-ciberataque
-restricciones en temas de salud
-creación de contenido ilegal (obsceno)
-derechos de autor
-regulación  en suplantación profesional
+![[Pasted image 20260910103711.png]]
+
+# Actividad 1.5
+
+![[Pasted image 20260910103643.png]]
 
 
 
